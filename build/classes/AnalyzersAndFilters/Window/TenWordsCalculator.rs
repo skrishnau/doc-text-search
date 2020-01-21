@@ -1,0 +1,2 @@
+AnalyzersAndFilters.TenWordsCalculator
+WindowAnalyzerAndFilter.TenWordsCalculator
